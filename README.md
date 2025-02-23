@@ -9,7 +9,7 @@ The dataset includes detailed records of chocolate sales, covering:
 - **Product**: Types of chocolate sold (e.g., Chocolate Chip, Fortune Cookie)
 - **Revenue**: Total revenue generated
 - **Cost**: Production and distribution cost
-- **Profit**: Calculated as Revenue - Cost
+- **Profit**: Calculated as Revenue - Costs
 - **Units Sold**: Quantity of chocolate products sold
 - **Month**: Monthly breakdown of sales performance
 
